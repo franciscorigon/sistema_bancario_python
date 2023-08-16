@@ -3,8 +3,6 @@ Este é um programa simples de sistema bancário em Python que demonstra operaç
 
 ### O programa oferece as seguintes funcionalidades:
 
-Criar Conta: Os usuários podem criar uma nova conta bancária fornecendo um nome e um saldo inicial.
-
 Depositar Fundos: Os usuários podem depositar dinheiro em suas contas existentes.
 
 Retirar Fundos: Os usuários podem retirar dinheiro de suas contas, desde que tenham saldo suficiente.
