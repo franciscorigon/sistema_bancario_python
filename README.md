@@ -1,5 +1,5 @@
 # Simple Bank System in Python
-Este é um programa simples de sistema bancário em Python que demonstra operações bancárias básicas, como criar uma conta, depositar fundos, retirar fundos e verificar o saldo.
+Este é um programa simples de sistema bancário em Python que demonstra operações bancárias básicas, como depositar fundos, retirar fundos e verificar o saldo.
 
 ### O programa oferece as seguintes funcionalidades:
 
